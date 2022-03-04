@@ -1,5 +1,9 @@
 *.txt
 zhwiki-latest-pages-articles.xml.bz2
-word2vec-Chinese/
+combined.vectors
 combined.model.syn1neg.npy
 combined.model.wv.vectors.npy
+
+word2vec-Chinese/
+.vscode/
+.ipynb_checkpoints/
