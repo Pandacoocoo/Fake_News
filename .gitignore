@@ -1,3 +1,5 @@
 *.txt
 zhwiki-latest-pages-articles.xml.bz2
 word2vec-Chinese/
+combined.model.syn1neg.npy
+combined.model.wv.vectors.npy
