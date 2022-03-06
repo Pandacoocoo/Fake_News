@@ -7,3 +7,7 @@ combined.model.wv.vectors.npy
 word2vec-Chinese/
 .vscode/
 .ipynb_checkpoints/
+
+# Not ignore these files
+!evasampledata4-TaskAA.txt
+!NLPCC2016_Stance_Detection_Task_A_Testdata.txt
