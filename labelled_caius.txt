@@ -314,7 +314,7 @@ Comment: ：建议滚回美国 FAVOUR
 Comment: ：你还要脸不吖？ FAVOUR
 Comment: ：堪称极端的利己主义者 FAVOUR
 Comment: ：我吐你一脸新型冠状病毒，真是无耻好意思 FAVOUR
-Comment: ：别传播谣言了好吗 FAVOUR
+Comment: ：别传播谣言了好吗 AGAINST
 Comment: ：拿了绿卡还是中国人，没入籍，应该算是华侨 FAVOUR
 Comment: ：还爱心筹，我看你是找抽！ FAVOUR
 Comment: ：你一个美国人有什么底气要中国免费医治？ FAVOUR
@@ -640,7 +640,7 @@ Comment: ：这种人不收费，天理难容，必须收他双倍的费用 FAVO
 Comment: ：这真的假的。这要算境外输入病例了，都是巨婴吗？想回国占便宜，为中国做过什么贡献吗？ FAVOUR
 Comment: ：臭不要脸 FAVOUR
 Comment: ：美国房子大，环境好，还特么要爱心筹，臭不要脸 FAVOUR
-Comment: ：头条上有人故意编的，不具真实性，不信谣不传谣。 FAVOUR
+Comment: ：头条上有人故意编的，不具真实性，不信谣不传谣。 AGAINST
 Comment: ：人要学会知足感恩 FAVOUR
 Comment: ：凭什么给你免费，拿了绿卡就是美国狗了。还回来干嘛。这隔过去，就是叛徒 FAVOUR
 Comment: ：活该 FAVOUR

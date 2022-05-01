@@ -213,7 +213,7 @@ Comment:AGAINST ：故事编得不错 AGAINST
 Comment:FAVOR ：找你的美国爸爸去，美国不是福利好嘛。 FAVOR
 Comment:FAVOR ：你去给美国投诉,中国不给我免费治疗 FAVOR
 Comment:FAVOR ：理性的说，这个国家没有义务免费。 FAVOR
-Comment:AGAINST ：这人是不是真的存在还有待证明，万一是有人伪造的用来离间另一个群体呢……慎重 FAVOR
+Comment:AGAINST ：这人是不是真的存在还有待证明，万一是有人伪造的用来离间另一个群体呢……慎重 AGAINST
 Comment:FAVOR ：凭什么给你美国人免费治疗呢？这里是中国，可笑！ FAVOR
 Comment:FAVOR ：想免费？回去美国排队吧 FAVOR
 Comment:AGAINST ：假的吧，故意引战？ AGAINST
